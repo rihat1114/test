@@ -1,0 +1,11 @@
+By installing and using Picturelicious on your server, you agree to the following terms and conditions:
+
+Picturelicious license grants you the right to run one instance (a single installation) of the Software on one web server and one web site for each license purchased. Each license may power one instance of the Software on one domain. For each installed instance of the Software, a separate license is required. You however may set up an additional test installation that is non-public and protected with a password.
+
+The Software is licensed only to you. You may not rent, lease, sublicense, sell, assign, pledge, transfer or otherwise dispose of the Software in any form, on a temporary or permanent basis, without the prior written consent of the Picturelicious author.
+
+The Software source code may be altered (at your risk)
+
+The software and the accompanying files are sold "As Is" and without warranties as to performance of merchantability or any other warrantied whether expressed or implied.
+
+You are solely responsible for the content posted on your site powered by the Software.
